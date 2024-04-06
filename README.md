@@ -1,4 +1,4 @@
-# javascripttestfetchresponses
+# Javascript examples for test fetch responses
 Data for test javascript fetch responses
 
 example to use for fetch:
