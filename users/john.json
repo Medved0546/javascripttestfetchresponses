@@ -1,0 +1,18 @@
+`{
+	"fullName": "John Smith",
+	"age": 31,
+	"isMarried": true,
+	"partners": ["Katie", "Alice", "Stella"],
+	"binarySignature": 1000000101001010001100010110100001101110n,
+	"crimes": null,
+	"address": {
+	  "Galaxy": "Milky Way",
+	  "Planet": "Earth",
+	  "Country": "Canada",
+	  "City": "Vancouver",
+	  "District": "Kitsilano",
+	  "Street": "York Avenue",
+	  "House": "1234",
+	  "Flat": "11"
+	}
+}`

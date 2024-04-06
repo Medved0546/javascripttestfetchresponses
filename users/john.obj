@@ -1,0 +1,23 @@
+{ 
+  fullName: "John Smith",
+  age: 31,
+  isMarried: true,
+  partners: ["Katie", "Alice", "Stella"],
+  signature: Symbol("AJ1hn"),
+  binarySignature: 1000000101001010001100010110100001101110n,
+  isCriminal: undefined,
+  crimes: null,
+  address: { 
+    Galaxy: "Milky Way",
+    Planet: "Earth",
+    Country: "Canada",
+    City: "Vancouver",
+    District: "Kitsilano",
+    Street: "York Avenue",
+    House: "1234",
+    Flat: "11" 
+    },
+    exampleFunction: function() {
+    alert("This is example function datatype! Iterate it <3");
+    }
+};
